@@ -1,6 +1,11 @@
-# Hi, I'm Shafayet 👋
+<h1 align="center">Hi, I'm Shafayet 👋</h1>
 
-🚀 Full-stack developer | SaaS builder | Tech lead
+<h3 align="center">🚀 Full-stack developer | SaaS builder | Tech lead</h3>
+<div align="center">
+
+![Shafayet](gitartwork.svg)
+
+</div>
 
 <!--
 ## 📊 GitHub Stats
