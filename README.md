@@ -7,6 +7,8 @@
 
 </div>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shafayet9780&layout=compact&theme=tokyonight&hide=html,css)
+
 <!--
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shafayet9780&show_icons=true&theme=radical)
